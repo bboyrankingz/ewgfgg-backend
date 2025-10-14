@@ -48,6 +48,7 @@ public class TekkenDataMapperUtils {
         characterMap.put("41", "Clive");
         characterMap.put("42", "Anna");
         characterMap.put("43", "Fahkumram");
+        characterMap.put("44", "Armor King");
 
         stageMap.put("100", "Arena");
         stageMap.put("101", "Arena Underground");
